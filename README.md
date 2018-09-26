@@ -1,4 +1,4 @@
-# [Obejetos Inteligentes Conectados] 5 sem. 2018
+# [Objetos Inteligentes Conectados] 5 sem. 2018
 
 ## Turma 5K12
 ## Projeto: "Sensor de Detecção de Luz"
