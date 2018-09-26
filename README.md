@@ -1,17 +1,18 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [Obejetos Inteligentes Conectados] 5 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 5K12
+## Projeto: "Sensor de Detecção de Luz"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
+* Lucas Pereira Gomes
+* Matheus Santiago França
+* Victor Helfstein Piccoli
 * Aluno 4
 
 ## Descrição resumida do projeto
 
 Descreva resumidamente o projeto aqui.
+Mostrar a variação da intensidade da luz utilizando uma fotocélula com Arduino. De acordo com a variação da intensidade da luz, os leds acendem ou apagam e se não houver luz nenhuma, um buzzer apita
 
 _______________________________________
 Obs:
