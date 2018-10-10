@@ -7,7 +7,7 @@
 * Lucas Pereira Gomes
 * Matheus Santiago França
 * Victor Helfstein Piccoli
-* Aluno 4
+* Gabriel Ramos
 
 ## Descrição resumida do projeto
 
