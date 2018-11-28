@@ -12,7 +12,7 @@ Deve conter:
     1 LCD Nokia 5110.
 
 2) Desenho Tinkercad ou Fritzing
-    
+    EsquemaTrena.PNG
 3) Esquema eletrônico
 
 4) Materiais para confecção de caixas e consoles (ou arquivos para impressão 3D)
