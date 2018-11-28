@@ -1,7 +1,7 @@
 # [Objetos Inteligentes Conectados] 5 sem. 2018
 
 ## Turma 5K12
-## Projeto: "Sensor de Detecção de Luz"
+## Projeto: "Trena Eletrônica Arduino"
 ## Integrantes do grupo:
 
 * Lucas Pereira Gomes
@@ -11,8 +11,7 @@
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
-Mostrar a variação da intensidade da luz utilizando uma fotocélula com Arduino. De acordo com a variação da intensidade da luz, os leds acendem ou apagam e se não houver luz nenhuma, um buzzer apita
+O projeto consiste em uma trena eletrônica, que funciona com o auxilio de um sensor ultrassônico para calcular a distância e de um laser para ajudar na orientação. No projeto ainda sera utilizado um monitor LCD para o monitoramento dos dados, um botão para somar as medidas, um botão para considerar a distancia a partir do sensor ou considerando o comprimento total do dispositivo e um botão para medir.
 
 _______________________________________
 Obs:
